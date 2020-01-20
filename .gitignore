@@ -3,4 +3,6 @@
 *.epub
 *.pdf
 *.mobi
+*.html
+
 _book/*
