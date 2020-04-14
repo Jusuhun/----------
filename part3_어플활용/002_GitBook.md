@@ -3,7 +3,7 @@
 ## 설치
 
 GitBook을 설치 하기 위해는 Node.js가 기본적으로 설치되어 있어야 합니다. 없는 경우에는 brew로 설치합니다.
-``` ㅅㄷㄱ
+``` 
 brew install node
 ```
 
@@ -17,7 +17,9 @@ gitbook --version
 ```
 brew cask install calibre
 ```
+
 ---
+
 ## 사용방법
 
 ### 3.1 첫 GitBook 프로젝트 만들기
@@ -63,5 +65,7 @@ gitbook mobi
 ```
 
 [참고1](https://advenoh.tistory.com/1)
+
 [참고2](https://pinedance.github.io/blog/2018/10/04/build-eBook-with-gitbook-cli)
+
 [참고3](https://blog.chulgil.me/how-to-make-blog-using-github-5/)
