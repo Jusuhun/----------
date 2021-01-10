@@ -1,5 +1,12 @@
 # VsCode
 
+## 설치 확장프로그램
+
+Battery Indicator
+Date & Time
+Go
+Markdown PDF
+
 ## 터미널에서 `code .`으로 실행 시키기
 
 먼저 VScode를 실행을 시키고 `f1`키를 누르거나 `명령팔레트`를 실행시킵니다.
